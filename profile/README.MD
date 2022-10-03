@@ -26,3 +26,4 @@ No momento, os canais de comunicação da comunidade são os seguintes:
 <div style="display:flex;" align="center">
 <a href="http://u.fsf.org/16e"><img src="https://static.fsf.org/nosvn/images/badges/badges_pt-br/fsfs_icons_beige-bg-pt_BR.png" alt="Software Livre, Sociedade Livre"></a>
 <a href="http://u.fsf.org/16f"><img src="https://static.fsf.org/nosvn/images/badges/badges_pt-br/i-support-fs_gray-bg-pt_BR.png" alt="Eu apoio o software livre"></a>
+</div>
